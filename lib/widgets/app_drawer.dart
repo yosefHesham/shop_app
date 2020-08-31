@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shop_app_final/helpers/custom_route.dart';
 import 'package:shop_app_final/providers/auth_provider.dart';
-import 'package:shop_app_final/providers/orders.dart';
 
 import '../screens/orders_screen.dart';
 import '../screens/user_products_screen.dart';
